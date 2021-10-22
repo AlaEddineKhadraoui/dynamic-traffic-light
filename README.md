@@ -1,2 +1,2 @@
 # dynamic-traffic-light
-a dynamic traffic light control
+an Embedded System for dynamic traffic light control
